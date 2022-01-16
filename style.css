@@ -163,7 +163,7 @@ animation-play-state: running;
     left: 50px;
     box-shadow: 10px 10px 71px grey;
 }
- @media only screen and (max-width:360px) {
+@media only screen and (max-width:688px){
      .container{
         max-width: 359px;
      }
@@ -229,7 +229,7 @@ align-items: center;
        font-size: 8px;
    }
  }
- @media only screen and (min-width:361px) and (max-width:800px) {
+ @media only screen and (min-width:688px) and (max-width:992px) {
      .container{
        max-width: 767px;
        
